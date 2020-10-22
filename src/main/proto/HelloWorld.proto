@@ -9,7 +9,7 @@ message Person {
     string last_name = 2;
 }
 
-message greeting {
+message Greeting {
     string message = 1;
 }
 
